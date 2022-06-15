@@ -1,0 +1,36 @@
+body{
+ background-color:#323232;
+ margin: 50px;
+ padding: 1rem;
+}
+h1{
+  padding: 1.2rem;
+  color: yellow;
+ text-align: center;
+}
+b{
+  color: white;
+}
+.img1{
+  position: absolute;
+  top: 2.5rem;
+  border-radius: 2rem;
+}
+.img2{
+  position: absolute;
+  top: 2.5rem;
+  right: 1rem;
+  border-radius: 2rem;
+}
+dt{
+  color: #FFD32D;
+}
+dd{
+  color: white;
+  padding: 10px;
+}
+
+.test{
+ background-color: yellow;
+ padding: 30px;
+}
