@@ -11,16 +11,20 @@ h1{
 b{
   color: white;
 }
-.img1{
-  position: absolute;
+.img3{
+  /* position: absolute;
   top: 2.5rem;
-  border-radius: 2rem;
+  border-radius: 2rem; */
+  width:64rem;
 }
-.img2{
-  position: absolute;
-  top: 2.5rem;
+.img1{
+  /* position: absolute; */
+  /* top: 2.5rem;
   right: 1rem;
   border-radius: 2rem;
+  width: 16.5rem;
+  height: 14rem; */
+width:64rem;
 }
 dt{
   color: #FFD32D;
@@ -33,4 +37,8 @@ dd{
 .test{
  background-color: yellow;
  padding: 30px;
+}
+address{
+  color: white;
+  text-align: center;
 }
